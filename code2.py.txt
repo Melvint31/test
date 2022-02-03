@@ -1,2 +1,2 @@
 sts mac sts mac
-linux sts
+linux st
